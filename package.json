@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@ionic/angular-toolkit": "^12.2.0"
+  }
+}
